@@ -1,9 +1,8 @@
 import Foundation
 
-var currDate = Date()
-
-
 // Create a date using today's date and a DateComponents structure
+
+var currDate = Date()
 
 // Specify date components
 var dateComponents = DateComponents()
